@@ -1,7 +1,8 @@
 # Jogo do Número Secreto
 
 ## Introdução
-Este projeto é um jogo simples de adivinhação desenvolvido em JavaScript, HTML e CSS. O objetivo do jogo é que o usuário descubra um número secreto gerado aleatoriamente pelo computador. A cada tentativa, o usuário recebe dicas sobre se o número escolhido é maior ou menor que o número secreto.
+Este projeto é um jogo simples de adivinhação desenvolvido em JavaScript, HTML e CSS. O objetivo do jogo é que o usuário descubra um número secreto gerado aleatoriamente pelo computador. A cada tentativa, o usuário recebe dicas sobre se o número escolhido é maior ou menor que o número secreto.  
+Foi implementado sobre uma base já existente, que incluía a estrutura HTML e o design CSS da aplicação, a lógica JavaScript.
 
 ## Tecnologias Utilizadas
 HTML: Estrutura da página, definindo os elementos como botões, caixas de texto e imagens.
